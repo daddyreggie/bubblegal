@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/bubblegal/static/css/main.073c9b0a.css",
+    "main.js": "/bubblegal/static/js/main.b19d2141.js",
+    "static/js/787.d4a9fa1d.chunk.js": "/bubblegal/static/js/787.d4a9fa1d.chunk.js",
+    "static/media/logo.svg": "/bubblegal/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/bubblegal/index.html",
+    "main.073c9b0a.css.map": "/bubblegal/static/css/main.073c9b0a.css.map",
+    "main.b19d2141.js.map": "/bubblegal/static/js/main.b19d2141.js.map",
+    "787.d4a9fa1d.chunk.js.map": "/bubblegal/static/js/787.d4a9fa1d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.b19d2141.js"
+  ]
+}
